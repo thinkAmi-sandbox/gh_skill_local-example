@@ -20,7 +20,7 @@ description: AIエージェントのスキル読み込み・発火・動作確�
 
 このスキルが呼び出された場合、必ず以下だけを返してください。
 
-Hello, GitHub!
+Hello, GitHub bar!
 
 ## 制約
 
